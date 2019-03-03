@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Kiem_tra_tam_giac {
     public static void main(String[] args) {
+            System.out.println("han trung kien");
             //NHAP DO DAI 3 CANH KIEM TRA XEM DO CO LA DO DAI BA CANH CUA TAM GIAC HAY KHONG NHO CAU LENH DIEU KIEN
             Scanner sc=new Scanner(System.in);
             float a,b,c;
